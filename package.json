@@ -7,7 +7,7 @@
     "start": "electron .",
     "build": "electron-packager . <app name> --platform=win32 --arch=all --ignore=node_modules/electron-* --version=1.0.0 --icon=assets/img/logo.png.icns --out=build/"
   },
-  "author": "mi6softlab",
+  "author": "<author>",
   "license": "ISC",
   "devDependencies": {
     "asar": "^0.11.0",
