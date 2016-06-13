@@ -1,11 +1,11 @@
 {
-  "name": "todoAPP",
+  "name": "<app name>",
   "version": "1.0.0",
-  "description": "todoAPP",
+  "description": "<desc>",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "build": "electron-packager . todoAPP --platform=win32 --arch=all --ignore=node_modules/electron-* --version=1.0.0 --icon=assets/img/logo.png.icns --out=build/"
+    "build": "electron-packager . <app name> --platform=win32 --arch=all --ignore=node_modules/electron-* --version=1.0.0 --icon=assets/img/logo.png.icns --out=build/"
   },
   "author": "mi6softlab",
   "license": "ISC",
