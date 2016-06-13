@@ -6,7 +6,7 @@ Electron quick app dev files
     <td>file/folder</td> <td>description</td>
   <tr>
   <tr>
-    <td>index.html</td> <td>basic html for quick start</td>
+    <td>main.html</td> <td>basic html for quick start</td>
   <tr>
   <tr>
     <td>main.js</td> <td>electron app files</td>
