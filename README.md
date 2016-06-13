@@ -18,7 +18,7 @@ Electron quick app dev files
     <td>folder > js</td> <td>jquery-3.0.0</td>
   <tr>
     <tr>
-    <td>folder > css</td> <td><ol><li>main.css</li><li>font.css</li></ol></td>
+    <td>folder > css</td> <td><ol><li>main.css</li><li>font.css: roboto font embed</li></ol></td>
   <tr>
   <tr>
     <td>folder > assets</td> <td><ol><li>folder > img</li><li>folder > svg</li> <li>folder > fonts:include roboto font</li></ol></td>
