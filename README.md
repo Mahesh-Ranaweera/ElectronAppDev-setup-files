@@ -1,4 +1,4 @@
-# QUICK_APPDEVFILES
+# Electron quick app dev files
 Electron quick app dev files
 
 <table>
