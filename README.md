@@ -12,7 +12,7 @@ Electron quick app dev files
     <td>main.js</td> <td>electron app files</td>
   <tr>
   <tr>
-    <td>package.jason</td> <td>electron app files</td>
+    <td>package.json</td> <td>electron app files</td>
   <tr>
   <tr>
     <td>folder > js</td> <td>jquery-3.0.0</td>
